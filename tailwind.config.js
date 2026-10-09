@@ -7,8 +7,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        'dark-bg': '#000000', // Atau #0A0A0A
+        'page': '#0A0A0A',
         'accent-blue': '#0066FF',
+        'accent': '#0066FF',
+        'muted': '#A3A3A3',
         'text-light': '#FFFFFF',
         'text-muted': '#A3A3A3',
       },
